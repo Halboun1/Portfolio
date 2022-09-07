@@ -24,15 +24,15 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small> 3+ Years Working</small>
+              <small> 3 Years</small>
             </article>
 
             
           </div>
           <p>
-            Full Stack developer with passion for developing scalable web<br/>
-            application, as a fresh graduate with very good experience in css<br/>
-            and javascript, i am ready to jump at any opportunity to continure <br/>
+            Full Stack developer with passion for developing scalable web
+            application, as a fresh graduate with very good experience in css
+            and javascript, i am ready to jump at any opportunity to continure
             growing my skillset in the JS field,
           </p>
 

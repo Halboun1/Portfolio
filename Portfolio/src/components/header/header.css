@@ -33,6 +33,7 @@ header {
 
 
 
+
 /* ========== IMAGE STYLING ========== */
 .me {
     background-color: var(--color-primary);
@@ -44,4 +45,25 @@ header {
     border-radius: 5rem 5rem 0 0;
     overflow: hidden;
     
+}
+
+
+/* ========== MEDISA QUERIES (MEDIUM DEVICES) ========== */
+@media screen and (max-width: 1024px) {
+    header {
+        height: 68vh;
+    }
+}
+
+
+
+/* ========== MEDISA QUERIES (MEDIUM DEVICES) ========== */
+@media screen and (max-width:600px) {
+    header {
+        height: 100vh;
+    }
+
+    .header__socials {
+        display: none;
+    }
 }

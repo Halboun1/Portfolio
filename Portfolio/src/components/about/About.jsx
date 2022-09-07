@@ -27,31 +27,16 @@ const About = () => {
               <small> 3+ Years Working</small>
             </article>
 
-            <article className='about__card'>
-              <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small> 3+ Years Working</small>
-            </article>
-
-            <article className='about__card'>
-              <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small> 3+ Years Working</small>
-            </article>
-
-            <article className='about__card'>
-              <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small> 3+ Years Working</small>
-            </article>
-            
-            <article className='about__card'>
-              <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small> 3+ Years Working</small>
-            </article>
             
           </div>
+          <p>
+            Full Stack developer with passion for developing scalable web<br/>
+            application, as a fresh graduate with very good experience in css<br/>
+            and javascript, i am ready to jump at any opportunity to continure <br/>
+            growing my skillset in the JS field,
+          </p>
+
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>

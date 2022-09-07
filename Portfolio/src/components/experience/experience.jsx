@@ -1,6 +1,6 @@
 import React from 'react'
 import './experience.css'
-import {IoCheckmarkCircleSharp} from 'react-icons/lo'
+import {HiBadgeCheck} from 'react-icons/hi'
 
 
 
@@ -17,7 +17,7 @@ const Experience = () => {
           <h3>Frontend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <IoCheckmarkCircleSharp/>
+              <HiBadgeCheck/>
             </article>
           </div>
         </div>

@@ -14,8 +14,10 @@ const Portfolio = () => {
             <img src={IMG} alt=""></img>
           </div>
           <h3>This is a portfolio item title</h3>
-          <a href="https://github.com/Halboun1/Handy-App" target="_blank" rel="noopener noreferrer" className='btn'>Github</a>
-          <a href="https://.com" target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/Halboun1/Handy-App" target="_blank" rel="noopener noreferrer" className='btn'>Github</a>
+            <a href="https://.com" target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Live Demo</a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -23,8 +25,10 @@ const Portfolio = () => {
             <img src={IMG} alt=""></img>
           </div>
           <h3>This is a portfolio item title</h3>
-          <a href="https://github.com/Halboun1/Handy-App" target="_blank" rel="noopener noreferrer" className='btn'>Github</a>
-          <a href="https://.com" target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/Halboun1/Handy-App" target="_blank" rel="noopener noreferrer" className='btn'>Github</a>
+            <a href="https://.com" target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Live Demo</a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -32,8 +36,10 @@ const Portfolio = () => {
             <img src={IMG} alt=""></img>
           </div>
           <h3>This is a portfolio item title</h3>
-          <a href="https://github.com/Halboun1/Handy-App" target="_blank" rel="noopener noreferrer" className='btn'>Github</a>
-          <a href="https://.com" target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/Halboun1/Handy-App" target="_blank" rel="noopener noreferrer" className='btn'>Github</a>
+            <a href="https://.com" target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Live Demo</a>
+          </div>
         </article>
 
         <article className='portfolio__item'>
@@ -41,8 +47,10 @@ const Portfolio = () => {
             <img src={IMG} alt=""></img>
           </div>
           <h3>This is a portfolio item title</h3>
-          <a href="https://github.com/Halboun1/Handy-App" target="_blank" rel="noopener noreferrer" className='btn'>Github</a>
-          <a href="https://.com" target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/Halboun1/Handy-App" target="_blank" rel="noopener noreferrer" className='btn'>Github</a>
+            <a href="https://.com" target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Live Demo</a>
+          </div>
         </article>
       </div>
 

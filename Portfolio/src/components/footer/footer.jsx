@@ -3,7 +3,12 @@ import './footer.css'
 
 const Footer = () => {
   return (
-    <div>footer</div>
+    <footer>
+      <a href="#" className='footer_logo'>EGATOR</a>
+      <ul className='permalinks'>
+        
+      </ul>
+    </footer>
   )
 }
 
